@@ -1,1 +1,2 @@
 This is to understand about the readme file.
+This second line is to understand how to merge a branch into the main.
